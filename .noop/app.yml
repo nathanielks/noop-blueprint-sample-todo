@@ -122,3 +122,5 @@ resources:
     hashKeyType: S
   - name: S3Bucket
     type: s3
+  - name: Mysql
+    type: mysql
